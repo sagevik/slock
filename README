@@ -1,3 +1,10 @@
+Patched version of slock
+============================
+This is a patched version of slock, patched with the following
+patches from suckless.org website:
+- multi shapes
+
+
 slock - simple screen locker
 ============================
 simple screen locker utility for X.
